@@ -22,7 +22,9 @@ These scripts are designed to be simple, reusable, and easily adaptable for real
 - 🔹 Input-driven script execution  
 - 🔹 Modular scripting using functions  
 - 🔹 Task automation using loops  
-- 🔹 Backup and archiving operations  
+- 🔹 Backup and archiving operations
+- 🔹 Scheduled automation using cron jobs
+-   
 
 ---
 
@@ -39,7 +41,7 @@ These scripts are designed to be simple, reusable, and easily adaptable for real
 | 07-functions | Modular and reusable scripts |
 | 08-loops | Iterative automation |
 | 09-backup | Backup and archive automation |
-
+| 10-cron | Cron jobs for scheduling automation |
 ---
 
 ## 🔧 Example Use Cases
