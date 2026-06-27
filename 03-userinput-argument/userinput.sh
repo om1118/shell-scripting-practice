@@ -2,17 +2,9 @@
 #!/bin/bash
 
 
-#user input
-
-read -p "who is your favourite sportsperson" sport
-
-echo "my favourite sportsperson is $sport"
-
 #arguments
 
-#favourite sport person
-
-echo "is am practicing $0"
+#favourite sport perser
 
 echo "first one is $1"
 

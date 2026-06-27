@@ -3,10 +3,11 @@
 
 # This script is used to install the package 
 
-echo "Installing $1"
+read -p "Enter the package name you want to install : " package
+
 
 sudo apt-get update > /dev/null
-sudo apt-get install $1 -y /dev/null
+sudo apt-get install $package -y > /dev/null
 
 echo "installation completed"
 
