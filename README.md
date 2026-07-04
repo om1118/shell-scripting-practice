@@ -24,7 +24,7 @@ These scripts are designed to be simple, reusable, and easily adaptable for real
 - 🔹 Task automation using loops  
 - 🔹 Backup and archiving operations
 - 🔹 Scheduled automation using cron jobs
--   
+   
 
 ---
 
